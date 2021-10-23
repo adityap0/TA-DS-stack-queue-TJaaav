@@ -158,7 +158,7 @@ console.log(stack.isEmpty()); // true
 // Test 2
 
 const stack2 = new Stack(4);
-
+//done
 stack2.add(10);
 stack2.add(12);
 stack2.add(120);
